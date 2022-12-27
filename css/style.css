@@ -1,0 +1,18 @@
+input{
+    outline: none;
+}
+.addList{
+    border: 2px solid green;
+}
+.renameList{
+    border: 2px solid red;
+}
+.titleColor{
+    color:green;
+}
+.welcome{
+    display: none;
+}
+.addWelcome{
+    display: block;
+}
